@@ -10,5 +10,5 @@ Este blog pertenece a la asignatura [Herramientas de Métodos e Ingeniería del 
 El objetivo es desplegar una página web, para lo cual, primero se crea una página web estática usando [Jekyll](https://jekyllrb.com/).
 
 ### Miembros
-- [Ismael Fernández Méndez]({{site.baseurl}}/miembros/Ismael).
-- [Jesús David García Moreno]({{site.baseurl}}/miembros/Jesus).
+- [Ismael Fernández Méndez]({{site.baseurl}}/members/Ismael).
+- [Jesús David García Moreno]({{site.baseurl}}/members/Jesus).
