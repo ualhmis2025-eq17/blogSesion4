@@ -14,6 +14,7 @@ layout: default
 <div>
 <p align="center">
   <img src="{{ site.baseurl }}/images/ismaelFelizSinNingunMotivo.jpg" alt="Ismael feliz sin ningún motivo" width="150" height="165" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <p align="center">Soy Ismael Fernández Méndez</p>
 </p>
 </div>
 
