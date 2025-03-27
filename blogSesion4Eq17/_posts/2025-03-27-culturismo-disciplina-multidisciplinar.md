@@ -5,6 +5,8 @@ date:   2025-03-27 5:14:29 +0100
 categories: jekyll update
 ---
 
+# Autor: [Ismael]({{site.baseurl}}/members/Ismael)
+
 # El Culturismo y su Relación con la Informática 💪🧠
 
 Quitémonos del medio lo evidente y lo de menos importancia. La informática es tan transversal que es difícil que no hinque sus afiladas garras en algún aspecto de la vida.
