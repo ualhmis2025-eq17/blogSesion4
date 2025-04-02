@@ -22,7 +22,7 @@ title: FernandezGarcia Blog
 email: ifm562@inlumine.ual.es
 description: >- # this means to ignore newlines until "baseurl:"
   Blog del equipo 17 de la asignatura HMIS de la UAL.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blogSesion4/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ualhmis2025-eq17
 
