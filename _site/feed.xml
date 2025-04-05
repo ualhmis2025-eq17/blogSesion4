@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-05T16:29:24+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FernandezGarcia Blog</title><subtitle>Blog del equipo 17 de la asignatura HMIS de la UAL.</subtitle><entry><title type="html">El arte de entender en la era de la infoxicación</title><link href="http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender.html" rel="alternate" type="text/html" title="El arte de entender en la era de la infoxicación" /><published>2025-03-30T10:23:29+02:00</published><updated>2025-03-30T10:23:29+02:00</updated><id>http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender.html"><![CDATA[<h1 id="autor-ismael">Autor: <a href="/members/Ismael">Ismael</a></h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-05T16:44:50+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FernandezGarcia Blog</title><subtitle>Blog del equipo 17 de la asignatura HMIS de la UAL.</subtitle><entry><title type="html">Seguridad Informática: Un Pilar Fundamental en la Era Digital</title><link href="http://localhost:4000/jekyll/update/2025/04/01/seguridad-informatica.html" rel="alternate" type="text/html" title="Seguridad Informática: Un Pilar Fundamental en la Era Digital" /><published>2025-04-01T10:02:02+02:00</published><updated>2025-04-01T10:02:02+02:00</updated><id>http://localhost:4000/jekyll/update/2025/04/01/seguridad-informatica</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/04/01/seguridad-informatica.html"><![CDATA[<h1 id="autor-susje">Autor: <a href="/members/Jesus">Susje</a></h1>
+
+<h1 id="️seguridad-informática-un-pilar-fundamental-en-la-era-digital️">🛡️Seguridad Informática: Un Pilar Fundamental en la Era Digital🛡️</h1>
+
+<p>En la actualidad, la tecnología es una parte esencial de nuestra vida cotidiana. Desde transacciones bancarias hasta el almacenamiento de información personal y empresarial, dependemos de sistemas digitales para llevar a cabo múltiples actividades. Sin embargo, este avance conlleva un desafío crucial: garantizar la seguridad de nuestros datos. La seguridad informática se ha convertido en un elemento imprescindible para individuos y organizaciones, ya que protege la integridad, confidencialidad y disponibilidad de la información frente a amenazas cibernéticas. 💻🛡️</p>
+
+<p><img src="/images/candado.jpg" alt="Seguridad Informática" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<hr />
+
+<h1 id="️principales-amenazas-en-el-entorno-digital️">⚠️Principales Amenazas en el Entorno Digital⚠️</h1>
+
+<p>El cibercrimen ha evolucionado a la par de la tecnología, desarrollando estrategias cada vez más sofisticadas para comprometer la seguridad de los usuarios. Algunas de las amenazas más comunes incluyen:</p>
+
+<ul>
+  <li>
+    <p>🦠Malware: Software malicioso diseñado para infiltrarse en sistemas y robar o dañar información.</p>
+  </li>
+  <li>
+    <p>📧Phishing: Intentos de fraude mediante correos electrónicos o mensajes que simulan ser de fuentes confiables para obtener datos personales.</p>
+  </li>
+  <li>
+    <p>💰Ransomware: Secuestro de datos mediante cifrado, exigiendo un pago para su recuperación.</p>
+  </li>
+  <li>
+    <p>📱Ataques de ingeniería social: Manipulación psicológica para engañar a usuarios y obtener acceso no autorizado a información o sistemas.</p>
+  </li>
+</ul>
+
+<p><img src="/images/malware.jpg" alt="Infeccion" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<h2 id="estrategias-claves-para-una-mayor-protección">🚨Estrategias Claves para una Mayor Protección🚨</h2>
+
+<p>Para mitigar los riesgos asociados a las amenazas cibernéticas, es fundamental adoptar buenas prácticas de seguridad digital. Algunas recomendaciones esenciales son:</p>
+
+<p>✅🛡️ Uso de contraseñas robustas y únicas, combinando letras, números y caracteres especiales.</p>
+
+<p>✅🛡️ Autenticación en dos pasos (2FA) para añadir una capa extra de seguridad.</p>
+
+<p>✅🛡️ Actualización periódica de software y sistemas operativos para corregir vulnerabilidades.</p>
+
+<p>✅🛡️ Evitar enlaces y archivos sospechosos, verificando siempre la autenticidad de los remitentes.</p>
+
+<p>✅🛡️ Realizar copias de seguridad frecuentes para minimizar el impacto en caso de un ataque.</p>
+
+<div style="display: flex; justify-content: space-between; position: relative;">
+  <div style="position: relative; text-align: center; z-index: -1;">
+    <img src="/images/contraseniaOlvidada.png" alt="Mi contraseña era..." width="400px" />
+  </div>
+  
+  <div style="position: relative; text-align: center; z-index: -1;">
+    <img src="/images/joke.jpeg" alt="It's just a prank" width="400px" />
+  </div>
+</div>
+
+<h2 id="la-ciberseguridad-en-el-ámbito-empresarial">💼La Ciberseguridad en el Ámbito Empresarial💼</h2>
+
+<p>Las organizaciones manejan grandes volúmenes de datos, lo que las convierte en objetivos frecuentes de ataques cibernéticos. Para reducir riesgos, es crucial implementar estrategias de seguridad como:</p>
+
+<p>🔹 Firewalls y sistemas de detección de intrusos para prevenir accesos no autorizados.</p>
+
+<p>🔹 Capacitación en seguridad informática para empleados, fomentando buenas prácticas digitales.</p>
+
+<p>🔹 Políticas de acceso restringido, asegurando que solo personal autorizado pueda manipular información crítica.</p>
+
+<p>🔹 Monitoreo constante de redes y sistemas para detectar actividades sospechosas en tiempo real.</p>
+
+<p><img src="/images/knife.jpeg" alt="Sin experiencia no hay éxito" style="display: block; margin-left: auto; margin-right: auto;" width="400px" /></p>
+
+<h2 id="el-papel-del-cifrado-en-la-protección-de-datos">🎭El Papel del Cifrado en la Protección de Datos🎭</h2>
+
+<p>El cifrado es una de las herramientas más eficaces para garantizar la privacidad y seguridad de la información. Se emplea en diversas aplicaciones, como:</p>
+
+<p>🔒 Transacciones bancarias y pagos electrónicos, protegiendo datos financieros.</p>
+
+<p>🔒 Sistemas de mensajería y correos electrónicos, asegurando la confidencialidad de las comunicaciones.</p>
+
+<p>🔒 Almacenamiento en la nube, evitando accesos no autorizados a información sensible.</p>
+
+<h2 id="tendencias-y-retos-en-la-ciberseguridad">🔝Tendencias y Retos en la Ciberseguridad🔝</h2>
+
+<p>A medida que la tecnología avanza, también lo hacen las estrategias de protección digital. Algunas de las tendencias que marcarán el futuro de la ciberseguridad incluyen:</p>
+
+<p>🚀 Inteligencia artificial y aprendizaje automático para detectar amenazas de manera autónoma y en tiempo real.
+    (Si quieres leer sobre una de las principales preocupaciones que está generando la IA entre los jóvenes, visita nuestro post <a href="http://127.0.0.1:4000/jekyll/update/2025/03/29/pavor-junior-ia.html">El pavor junior sobre la Inteligencia Artifical y la revolución artificial</a>).</p>
+
+<p>🚀 Regulaciones más estrictas en protección de datos, como el RGPD en Europa y otras normativas a nivel global.</p>
+
+<p>🚀 Ciberseguridad en dispositivos IoT, considerando el crecimiento del Internet de las Cosas y sus posibles vulnerabilidades.</p>
+
+<h2><img src="/images/ToyLaptop.png" alt="Portatil de juguete" style="display: block; margin-left: auto; margin-right: auto;" width="400px" /></h2>
+
+<h1 id="-conclusión">🔚 Conclusión</h1>
+
+<p>La seguridad informática ya no es un tema exclusivo de expertos en tecnología, sino una necesidad para cualquier persona o empresa que maneje datos en entornos digitales. Implementar medidas de protección adecuadas y mantenerse informado sobre las nuevas amenazas es esencial para garantizar la integridad y privacidad de la información en un mundo cada vez más interconectado.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Autor: Susje]]></summary></entry><entry><title type="html">El arte de entender en la era de la infoxicación</title><link href="http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender.html" rel="alternate" type="text/html" title="El arte de entender en la era de la infoxicación" /><published>2025-03-30T10:23:29+02:00</published><updated>2025-03-30T10:23:29+02:00</updated><id>http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender.html"><![CDATA[<h1 id="autor-ismael">Autor: <a href="/members/Ismael">Ismael</a></h1>
 
 <h1 id="el-arte-de-entender-en-la-era-de-la-infoxicación">El arte de entender en la era de la infoxicación.</h1>
 
