@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-05T16:29:24+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">FernandezGarcia Blog</title><subtitle>Blog del equipo 17 de la asignatura HMIS de la UAL.</subtitle><entry><title type="html">El arte de entender en la era de la infoxicación</title><link href="http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender.html" rel="alternate" type="text/html" title="El arte de entender en la era de la infoxicación" /><published>2025-03-30T10:23:29+02:00</published><updated>2025-03-30T10:23:29+02:00</updated><id>http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/30/el-arte-de-entender.html"><![CDATA[<h1 id="autor-ismael">Autor: <a href="/members/Ismael">Ismael</a></h1>
+
+<h1 id="el-arte-de-entender-en-la-era-de-la-infoxicación">El arte de entender en la era de la infoxicación.</h1>
+
+<h1 id="-la-importancia-de-entender">🧠 La importancia de entender</h1>
+
+<p>Son muchas las razones por las que merece la pena esmerarse en intentar entender las cosas 🤔💡. Tenemos razones puramente intelectuales 📚, más asociadas a la filosofía que a cuestiones prácticas 🏛️.</p>
+
+<p>Como podría decir Platón, las ideas son perfectas ✨ y por sí solas su mera existencia justifica todo intelecto que intente entenderlas 🧠. Sin embargo, es muy evidente que el mundo en el que vivimos es claramente aristotélico 🌍, antítesis de las ideas platónicas.</p>
+
+<p><img src="/images/aristotPlat.jpg" alt="Aristóteles VS Platón" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<p>Como tal, toda afirmación, todo saber, todo en general debe tener un propósito y una razón de ser para que merezca la pena 🎯, razones prácticas, que sirvan en la vida real ⚙️.</p>
+
+<hr />
+
+<h1 id="-inteligencia-artificial-y-el-problema-de-la-inmediatez">🤖 Inteligencia artificial y el problema de la inmediatez</h1>
+
+<p>En la era de la inteligencia artificial 🤖, no solo los informáticos han derivado en un estado de pereza más absoluto que antes 😴, sino que en general, todos los estudiantes 🎓 e incluso profesionales de campos intelectuales (no físicos) se han intoxicado de la información instantánea 📲 y están dejando de lado la bendición del entendimiento 🧩.</p>
+
+<p>Muchos jóvenes de diversas ingenierías de la UAL utilizan inteligencias ya comerciales y mainstream como ChatGPT no como una fuente útil, sino como autoridad 🔗.</p>
+
+<p><img src="/images/ChatGPT.png" alt="Estupidez Natural" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<hr />
+
+<h1 id="-un-referente-en-la-divulgación-matemática">🎥 Un referente en la divulgación matemática</h1>
+
+<p>Una de las personas por las que más admiración tengo es el Traductor de Ingeniería 🎥, un ingeniero argentino 🇦🇷 que sube vídeos divulgatorios principalmente de Matemáticas ➕➗, aunque también tiene vídeos de física 🔬 e ingeniería en general.</p>
+
+<div style="position: relative; text-align: center; z-index: -1;">
+    <img src="/images/elTraductor.jpg" alt="El Traductor de Ingeniería" width="100px" />
+    <p>El Traductor de Ingeniería</p>
+  </div>
+
+<p>Su canal gira en torno a un concepto clave: entender 🤯. Cuando estaba en Bachillerato lo seguía y apliqué esta filosofía, lo que me hizo enamorarme de las Matemáticas ❤️📐 como nunca antes.</p>
+
+<p>Cuando las matemáticas eran reglas incuestionables 🚫, las aborrecía 😖. Cuando empecé a entenderlas, pude ver su belleza 🎨.</p>
+
+<hr />
+
+<h1 id="-el-dilema-del-informático-para-qué-entender">👨‍💻 El dilema del informático: ¿para qué entender?</h1>
+
+<p>Podría incluso parecer que nosotros no estamos necesariamente dentro del barco 🚢 de “entender las cosas”. Al fin y al cabo, somos informáticos 👨‍💻👩‍💻, ¿no? ¿Para qué necesito entender cómo funciona mi Sistema Operativo 🖥️ si solo tengo que “programar” 💻?</p>
+
+<p>Quizás tú no pienses eso, pero muchas personas sí 🤷. Esto se debe a que la informática ha sido democratizada en internet 🌐 y ha sufrido una disrupción artificial de la ingeniería y el método ingenieril 🛠️.</p>
+
+<p>No es algo malo, ya que ha permitido a muchas personas entrar en el sector sin la necesidad de ir a la Universidad 🏫, lo cual es perfectamente viable ✅, pero las aísla del pensamiento crítico y analítico 🧐 que debería tener un ingeniero.</p>
+
+<hr />
+
+<h1 id="-problemas-técnicos-en-linux-y-el-pensamiento-crítico">🐧 Problemas técnicos en Linux y el pensamiento crítico</h1>
+
+<p>Y no estoy hablando de supuestos 🚨. Tengo un ejemplo reciente que me pasó a mí mismo 📖.</p>
+
+<p>Estaba intentando trabajar con Tesseract 👀, un motor de reconocimiento de caracteres ópticos desarrollado por Google en Python 🐍. Para este fin, existe el Wrapper pytesseract 🔄.</p>
+
+<p>Como utilizo <strong>Linux 🐧</strong>, mi IDE, Visual Studio Code, está instalado como un <strong>Flatpak 📦</strong>. Puede que no tenga mucha relevancia ahora mismo, pero la tiene.</p>
+
+<p>Flatpak intenta aislar las aplicaciones entre sí y entre el sistema 🔒, algo similar a lo que ocurre en Android 📱 (basado en <strong>Linux 🐧</strong>, recordemos que <strong>Linux 🐧</strong> es solo el kernel).</p>
+
+<p>Como tal, la ventaja de Flatpak es similar a los entornos virtuales de Python 🛑🐍: evita los conflictos entre librerías 📚 y los infiernos de dependencias 🔥 al estar todo incluido. Pero también comparte sus desventajas: es más pesado ⚖️ y dificulta la comunicación entre módulos que necesitan compartir archivos 🗂️.</p>
+
+<p>Este era el caso de mi ejemplo, ya que pytesseract necesita la localización del binario Tesseract ⚙️, que en mi caso estaba en una carpeta de mi Sistema Operativo 📂.</p>
+
+<p>Como <strong>Visual Studio Code estaba instalado como Flatpak</strong>, todas las instancias de bash generadas estaban “virtualizadas” 🧳 y tenían acceso restringido al sistema 🚫.</p>
+
+<p>Intenté ejecutar código Python con pytesseract y siempre lanzaba el mismo error ⚠️ en tiempo de ejecución ⏳: no podía encontrar el binario 🔍, aunque revisé muchas veces que el binario estaba incluido en el <code class="language-plaintext highlighter-rouge">$PATH</code> del bash que ejecutaba Visual Studio Code 🚀.</p>
+
+<p>Finalmente, cuando probé en una terminal real, el intérprete de Python funcionaba sin problemas 🎉. Ahí fue cuando me di cuenta de que el problema era culpa de Flatpak 📦, y después de tanto tiempo perdido ⌛, decidí trabajar directamente en una terminal real 💻.</p>
+
+<hr />
+
+<h1 id="-la-importancia-de-preguntarse-por-qué">🔎 La importancia de preguntarse “¿Por qué?”</h1>
+
+<p>Mi proceso de resolución del problema hubiera sido mejor si me hubiera preguntado: <strong>“¿Por qué?”</strong> ❓</p>
+
+<p>Aquí es donde entra el arte del saber 🎭. Si me lo pregunté, pero no indagué lo suficiente 🔍.</p>
+
+<p>Como siempre, probé primero las causas más sencillas y probables 🎯, pero lejos de seguir preguntándome, simplemente fui divagando sin rumbo 🏞️ hasta que encontré la solución 💡.</p>
+
+<p>Si hubiera dado rienda suelta a mi inquietud y ansias de saber por qué 🤯, el problema se habría resuelto más fácilmente.</p>
+
+<p>En vez de moverme por instinto y por interminables búsquedas de Google 🌍 y chats con ChatGPT 🤖, debería haber priorizado el razonamiento estructurado.</p>
+
+<hr />
+
+<h1 id="-conclusión-herramientas-útiles-pero-no-lo-son-todo">✅ Conclusión: herramientas útiles, pero no lo son todo</h1>
+
+<p>Estas últimas herramientas son útiles, sí ✅, pero <strong>no lo son todo</strong> 🚫.</p>
+
+<p>Nos pueden dar información útil 📖, pero lo más importante es <strong>entender en cada momento lo que uno está haciendo</strong> 🔄.</p>
+
+<p>En este caso, estaba, en cierta manera, <strong>infoxicado con un problema trivial</strong> 🌀.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Autor: Ismael]]></summary></entry><entry><title type="html">El pavor junior sobre la Inteligencia Artifical y la revolución artificial</title><link href="http://localhost:4000/jekyll/update/2025/03/29/pavor-junior-ia.html" rel="alternate" type="text/html" title="El pavor junior sobre la Inteligencia Artifical y la revolución artificial" /><published>2025-03-29T09:02:02+01:00</published><updated>2025-03-29T09:02:02+01:00</updated><id>http://localhost:4000/jekyll/update/2025/03/29/pavor-junior-ia</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/29/pavor-junior-ia.html"><![CDATA[<h1 id="autor-ismael">Autor: <a href="/members/Ismael">Ismael</a></h1>
+
+<h1 id="-el-pavor-junior-sobre-la-inteligencia-artificial-y-la-revolución-artificial">🤖 El pavor junior sobre la Inteligencia Artificial y la revolución artificial</h1>
+
+<p>Somos testigos, protagonistas y personajes secundarios de unas de las etapas más asombrosas e inquietantes de la era tecnológica de las últimas décadas. Si eres un estudiante de Ingeniería Informática leyendo este “mucho texto”, posiblemente te habrás preguntado más de una vez si merece la pena seguir estando en la carrera, o en general, en el mercado tecnológico ya competitivo y salvaje de la informática o “ciencias de la computación”, como dirían los estadounidenses (principalmente). 💻🚀</p>
+
+<p><img src="/images/unemployed.jpg" alt="unemployed" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<p>Esta última pregunta quizás te la hayas planteado precisamente por el hecho de que en estos últimos 3 años, inteligencias generativas de diferente índole han irrumpido en el folclore popular globalizado. En nuestro menester, hay una idealización del arte de programar, y por tanto, más de un junior se ha sentido totalmente desmotivado, pues la IA siempre será capaz de vomitar resultados increíblemente más rápido que lo que cualquiera de nosotros, por muy <em>keyboard warrior</em> que sea, pueda dar. 👾👨‍💻</p>
+
+<p><img src="/images/keyboardWarrior.jpg" alt="keyboardWarrior" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<hr />
+
+<h1 id="-un-futuro-incierto">🔮 Un futuro incierto</h1>
+
+<p>El futuro siempre es incierto, y tan incierto es, que quizás dentro de 20 años la humanidad haya dejado de existir por una catástrofe de cualquier índole. 🌍💥 En ese sentido, no es sabio alarmarse de manera exagerada, pero sí es buena idea trazar ciertos planes en los diferentes escenarios. ¿Cuáles son los posibles escenarios que deparan a un junior en lo que respecta a la Inteligencia Artificial? (Pensemos como un analista algorítmico): 🤔🔍</p>
+
+<h2 id="-peor-caso-on-la-ia-nos-reemplaza-totalmente">🚨 Peor caso O(n): La IA nos reemplaza totalmente</h2>
+
+<p>En este caso distópico, la IA es independiente, autoconsciente y más eficiente energéticamente (gastando una energía menor o igual que el gasto promedio de un adulto humano), superando o igualando la cuestionable sapiencia humana (algunas personas son <em>Homo</em>, pero apenas <em>Sapiens</em>). 🧠⚡️ En este caso, entraríamos en un colapso de la civilización tal y como la conocemos. 😱</p>
+
+<p><img src="/images/peaceSellsButWhosBuying.jpg" alt="Peace Sells... But Who's Buying?" style="display: block; margin-left: auto; margin-right: auto;" width="400px" /></p>
+
+<p>Si la IA es capaz no solo de generar código en base a peticiones que deben ser pensadas previamente, analizadas y criticadas por un humano (que es lo que haríamos nosotros como ingenieros), sino de hablar con un cliente, resolver puntos oscuros de una especificación, formalizar un proceso ingenieril maduro y retroalimentativo que le permita construir una estructura robusta, mantenible y segura, cualquier oficio intelectual estaría en juego. 🎯🖥️</p>
+
+<p>Incluso los trabajos físicos podrían verse afectados a largo plazo, porque, si lográsemos una IA al nivel humano, bastaría con crear autómatas que poco a poco reemplazarían a aquellas personas con la mejora de las baterías de litio. Lo cual no podría ser muy descabellado, viendo la evolución de la industria del automóvil eléctrico e híbrido. 🚗🔋 En ese caso, todos estamos muy en peligro, no solo los ingenieros de software o los mal llamados programadores. 😨</p>
+
+<h2 id="️-caso-medio-θn-la-ia-es-una-herramienta-pero-también-un-obstáculo">⚖️ Caso medio θ(n): La IA es una herramienta, pero también un obstáculo</h2>
+
+<p>En la mayoría de las ocasiones, será una piedra en el camino, ya que el cliente creerá que se puede construir software más rápido sin necesidad de un ingeniero cualificado. 🏃‍♂️💨 Esto llevará a que los ingenieros deban lidiar con soluciones de software “amorfas”, fruto de la mágica estadística que mueve a los modelos LLM. 🧩</p>
+
+<p>Estas soluciones, posiblemente, tengan asociados una infinidad de <em>bugs</em> porque se usaron ciegamente y no de manera analítica. 🐞 Este es, yo diría, el caso actual. 🤷‍♂️</p>
+
+<h2 id="-mejor-caso-ωn-la-ia-como-aliada-del-ingeniero">🌟 Mejor caso Ω(n): La IA como aliada del ingeniero</h2>
+
+<p>En este escenario, la IA mejorará hasta tal punto que podremos usarla muy eficientemente con tareas muy específicas especificadas explícitamente. Este es el mejor caso porque:</p>
+
+<ol>
+  <li>Requiere de conocimiento técnico. 👨‍💻💡</li>
+  <li>Requiere conocimiento de <em>prompting</em>. 🎙️💬</li>
+  <li>Requiere análisis de la solución propuesta. 🔍📊</li>
+</ol>
+
+<p>Esto incentivará el uso inteligente de la IA y desincentivará el pedir vagamente, copiar y pegar. ❌📄</p>
+
+<hr />
+
+<h1 id="-conclusión">🔚 Conclusión</h1>
+
+<p>La IA está siendo muy criticada por el bando “anti-IA” y muy <em>hypeada</em> por el bando “los programadores han muerto”. Soy el primero que usa la IA muy activamente. Para empezar, este post ha sido mejorado por secciones, con emojis y con imágenes diciéndole a ChatGPT que así lo haga manteniendo el texto. 📈👾</p>
+
+<p>Aunque el futuro es incierto, lo que quiero decir con esto es que, sea cual sea el caso algorítmico de la simulación en la que vivimos (porque vivimos en <em>Matrix</em> 🟦🔴, aunque no quieras tomarte las pastillas 💊💊), saldremos adelante, y en 2/3 nos vemos beneficiados. 🚀</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Autor: Ismael]]></summary></entry><entry><title type="html">El culturismo, una disciplina multidisciplinar más asociada a la informática, a la ciencia y a la filosofía de lo que podría pensarse.</title><link href="http://localhost:4000/jekyll/update/2025/03/27/culturismo-disciplina-multidisciplinar.html" rel="alternate" type="text/html" title="El culturismo, una disciplina multidisciplinar más asociada a la informática, a la ciencia y a la filosofía de lo que podría pensarse." /><published>2025-03-27T05:14:29+01:00</published><updated>2025-03-27T05:14:29+01:00</updated><id>http://localhost:4000/jekyll/update/2025/03/27/culturismo-disciplina-multidisciplinar</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/03/27/culturismo-disciplina-multidisciplinar.html"><![CDATA[<h1 id="autor-ismael">Autor: <a href="/members/Ismael">Ismael</a></h1>
+
+<h1 id="el-culturismo-y-su-relación-con-la-informática-">El Culturismo y su Relación con la Informática 💪🧠</h1>
+
+<p>Quitémonos del medio lo evidente y lo de menos importancia. La informática es tan transversal que es difícil que no hinque sus afiladas garras en algún aspecto de la vida.</p>
+
+<p>Sin embargo, no es un invento mío el intentar vincularlos directamente, más allá de ser una aplicación puntual informática. Al fin y al cabo, las redes sociales han exaltado personalidades del mundillo que han provocado que millones de jóvenes empiecen a entrenarse físicamente casi a diario. Todos hemos sido y somos testigos del auge del fitness en general gracias a la informática. Sin todas las aplicaciones que te ayudan a llevar un recuento calórico, sin todas las redes sociales que fomentan lo bueno y lo malo del fitness; el susodicho y por ende el culturismo no serían nada. <strong>Sin internet</strong>, toda la evidencia científica no se popularizaría de la manera que lo hace, lo que permite que el público general entienda mejor lo que funciona y lo que no. Hay un claro sustento del mundo deportivo en la informática. 🌐</p>
+
+<p>Algunos influencers que utilizan la informática para realimentar al culturismo y el fitness son:</p>
+
+<div style="display: flex; justify-content: space-between; position: relative;">
+  <div style="position: relative; text-align: center; z-index: -1;">
+    <img src="/images/jeffNippard.jpg" alt="Jeff Nippard" width="100px" />
+    <p>Jeff Nippard</p>
+  </div>
+  
+  <div style="position: relative; text-align: center; z-index: -1;">
+    <img src="/images/jeffCavaliere.jpg" alt="Jeff Cavaliere" width="100px" />
+    <p>Jeff Cavaliere</p>
+  </div>
+
+  <div style="position: relative; text-align: center; z-index: -1;">
+    <img src="/images/seanN.jpg" alt="Sean Nalewanyj" width="100px" />
+    <p>Sean Nalewanyj</p>
+  </div>
+</div>
+
+<hr />
+
+<h2 id="culturismo-arte-ciencia-y-filosofía-">Culturismo: Arte, Ciencia y Filosofía 💡</h2>
+
+<p>El <strong>culturismo</strong> es el arte y la ciencia de provocar que tu cuerpo alcance el máximo crecimiento muscular posible. Pese a que parece tener una única asociación a lo físico, el culturismo está altamente ligado a lo mental. Esto último lo vincula con otros aspectos como la <strong>filosofía</strong>. 🧘‍♂️</p>
+
+<p>Tomemos por ejemplo la etimología de la palabra “<strong>gimnasio</strong>”.</p>
+
+<p>La palabra gimnasio no sólo designa al establecimiento o lugar donde se practica la gimnasia y la ejercitación física, sino que tiene la acepción, hoy casi desusada, de establecimiento público de educación. En cierto modo, en Centroeuropa el <strong>gymnasium</strong> sería el equivalente a lo que en las áreas de influencia más francesa vino a llamarse <strong>liceo</strong>, siguiendo la tradición de la antigua escuela aristotélica. La palabra viene del latín <strong>gymnasium</strong>, en que no sólo designó a un lugar público de ejercitación física, sino al propio ejercicio y a una escuela filosófica en general.</p>
+
+<p><img src="/images/gymnasium.jpg" alt="Griegos desnudos peleando" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<p>El término origina del griego <strong>γυμνάσιον</strong> (“gymnasion”), que en origen designaba en efecto al lugar donde se hacía la gimnasia o ejercitación física, que se hacía desnudo, y de ahí su nombre, de <strong>γυμνός</strong> (“gymnós”, desnudo). Resulta que en la Grecia arcaica el <strong>γυμνάσιον</strong> era el lugar donde los hijos exclusivamente varones de la aristocracia recibían su educación, basada en gran medida en el adiestramiento físico, pero completada con filosofía y matemática, <strong>declamando el conocimiento perfecto de la poesía homérica y música</strong>.</p>
+
+<hr />
+
+<h2 id="la-filosofía-del-gimnasio-y-su-juego-de-conceptos-">La Filosofía del Gimnasio y su Juego de Conceptos 🎮</h2>
+
+<p>Hay una clara asociación histórica del gimnasio con lo intelectual en la historia. Hablando en términos informales, puede que el “gameplay” del gimnasio sea tres series de sentadilla, alguna banca y un peso muerto, pero el “lore” asociado es inmenso. Con esto lo que quiero transmitir es que <strong>el gimnasio es algo más que una simple actividad física</strong>. 💪</p>
+
+<p><img src="/images/gymLore.jpg" alt="Lindo gatito gym lore" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+
+<hr />
+
+<h2 id="el-culturismo-y-la-vida-disciplina-resiliencia-y-filosofía-">El Culturismo y la Vida: Disciplina, Resiliencia y Filosofía 🧠</h2>
+
+<p>Podemos establecer una clara asociación entre el <strong>culturismo</strong> y la actitud que uno debe de tomar en la vida. El estímulo del crecimiento muscular es muy simple y está bien entendido gracias a la ciencia y a la cantidad ingente de culturistas que hemos tenido a lo largo del siglo 20 y 21. Se basa en llevar al músculo cerca del fallo, y permitirle recuperarse. <strong>Es solo en base al fracaso que el músculo puede adaptarse y mejorar</strong>. La resiliencia muscular no es únicamente lo que se adapta en este proceso que podríamos generalizar a una actitud filosófica en la vida.</p>
+
+<p>Para alcanzar ese nivel de tensión es necesario un cierto nivel de <strong>disciplina</strong>, ya que es una constante lucha contra nuestro cuerpo. Nuestro cuerpo hará todo lo posible para evitar construir músculo, ya que en la vida salvaje es una actividad altamente demandante desde un punto de vista energético, así como el mantenimiento muscular. Solo lo hará cuando no le quede más remedio.</p>
+
+<p>Para provocar que “no le quede más remedio”, uno debe de <strong>disociarse de su propia mente</strong>. Cuando estás intentando llevar una serie de sentadilla al fallo, tu mente lo único que te está pidiendo es parar. Es similar a cuando estás corriendo. <strong>Debes luchar contra estos pensamientos</strong> y es solo auto-engañándote con “una repetición más” (el equivalente para los corredores de “1 km más”) que puedes ir acumulando la gloria del trabajo. 🏃‍♂️</p>
+
+<hr />
+
+<h2 id="el-trabajo-duro-y-el-tiempo-">El Trabajo Duro y el Tiempo ⏳</h2>
+
+<p>Adicionalmente, los resultados llegan con el tiempo y no son inmediatos, lo cual también está altamente vinculado al trabajo duro y constante que uno debe de tener en muchos aspectos de la vida. Es solo en cierto punto de inflexión que uno puede echar la vista atrás y pensar “estoy orgulloso del progreso que he tenido gracias a mi perseverancia”. Es altamente evidente que el <strong>culturismo</strong>, el <strong>fitness</strong> en general está muy ligado a la <strong>filosofía</strong>. 🧘‍♂️</p>
+
+<h2><img src="/images/theyDontKnowMeSon.png" alt="David Goggins corriendo" style="display: block; margin-left: auto; margin-right: auto;" width="200px" /></h2>
+
+<h2 id="ciencia-y-filosofía-el-lobo-y-el-perro-">Ciencia y Filosofía: El Lobo y el Perro 🐺🐕</h2>
+
+<p>¿Pero a la ciencia? La filosofía no es más que el estado salvaje de la ciencia, digamos el lobo. La ciencia es una filosofía controlada para evitar el caos y a veces el absurdo que la filosofía puede tener asociada, digamos el perro. La filosofía, el filósofo, en última instancia, quiere encontrar la verdad. Esa verdad es encontrada divagando, mientras que el científico sigue un método predefinido que garantiza resultados repetibles. 🔬</p>
+
+<hr />
+
+<h2 id="culturismo-fitness-e-informática-">Culturismo, Fitness e Informática 💻</h2>
+
+<p>El <strong>culturismo</strong> y el <strong>fitness</strong> en general son muy repetitivos. Para construir músculo debes hacer lo mismo una y otra vez, siguiendo la lógica establecida (o desafiándola, en pos de encontrar nueva ciencia). Así es como han existido intelectuales en el culturismo como <strong>Mike Mentzer</strong>, que han desafiado las bases establecidas y muchos de sus principios han sido usados indirectamente y casi sin crédito actualmente. 🧑‍🏫</p>
+
+<div style="position: relative; text-align: center; z-index: -1;">
+<img src="/images/mikeMentzer.jpg" alt="Mike Mentzer posando" style="display: block; margin-left: auto; margin-right: auto;" width="200px" />
+    <p>Mike Mentzer, una de las mentes más incomprendidas del culturismo dorado.</p>
+  </div>
+
+<p>La informática es simplemente la última <strong>abstracción del conocimiento</strong> a la que el culturismo está asociado, dentro de la ciencia, posterior a otras ramas del saber como la química y la medicina. 💻</p>
+
+<hr />]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Autor: Ismael]]></summary></entry></feed>
