@@ -83,7 +83,6 @@ El cifrado es una de las herramientas más eficaces para garantizar la privacida
 A medida que la tecnología avanza, también lo hacen las estrategias de protección digital. Algunas de las tendencias que marcarán el futuro de la ciberseguridad incluyen:
 
 🚀 Inteligencia artificial y aprendizaje automático para detectar amenazas de manera autónoma y en tiempo real.
-    Si quieres leer sobre una de las principales preocupaciones que está generando la IA entre los jóvenes, visita nuestro post [El pavor junior sobre la Inteligencia Artifical y la revolución artificial]({{ site.baseurl }}/jekyll/update/2025/03/29/pavor-junior-ia/).
 
 🚀 Regulaciones más estrictas en protección de datos, como el RGPD en Europa y otras normativas a nivel global.
 
